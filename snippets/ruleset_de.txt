@@ -1,4 +1,5 @@
 DIRECT,surge:https://raw.githubusercontent.com/hardy-one/profile/master/ruleset/Pass.list
+Google,surge:https://raw.githubusercontent.com/hardy-one/profile/master/ruleset/process_name/ProxyProc.list
 Manual,surge:https://raw.githubusercontent.com/hardy-one/profile/master/ruleset/ProxyList.list
 
 Telegram,surge:https://raw.githubusercontent.com/hardy-one/profile/master/ruleset/process_name/TelegramProc.list
@@ -6,7 +7,7 @@ Telegram,clash-classic:https://raw.githubusercontent.com/DivineEngine/Profiles/m
 
 Google,clash-classic:https://raw.githubusercontent.com/DivineEngine/Profiles/master/Clash/RuleSet/StreamingMedia/Video/YouTube.yaml
 Google,clash-classic:https://raw.githubusercontent.com/DivineEngine/Profiles/master/Clash/RuleSet/StreamingMedia/Music/YouTubeMusic.yaml
-Google,surge:https://raw.githubusercontent.com/hardy-one/profile/master/ruleset/process_name/GoogleProc
+Google,surge:https://raw.githubusercontent.com/hardy-one/profile/master/ruleset/process_name/GoogleProc.list
 Google,surge:https://raw.githubusercontent.com/hardy-one/profile/master/ruleset/Google.list
 
 Netflix,clash-classic:https://raw.githubusercontent.com/DivineEngine/Profiles/master/Clash/RuleSet/StreamingMedia/Video/Netflix.yaml
