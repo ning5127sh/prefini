@@ -3,6 +3,7 @@ DOMAIN-SUFFIX,google.com
 DOMAIN-SUFFIX,googleapis.com
 DOMAIN-SUFFIX,gstatic.com
 DOMAIN-SUFFIX,googleusercontent.com
+PROCESS-NAME,com.android.vending
 
 # > Google
 DOMAIN-SUFFIX,appspot.com
