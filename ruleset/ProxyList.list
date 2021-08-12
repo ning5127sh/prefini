@@ -7,3 +7,6 @@
 # DOMAIN-SUFFIX,googlesyndication.com
 # DOMAIN-SUFFIX,google-analytics.com
 # DOMAIN-SUFFIX,googletagservices.com
+
+# >> gitHub
+PROCESS-NAME,GitHubDesktop.exe
