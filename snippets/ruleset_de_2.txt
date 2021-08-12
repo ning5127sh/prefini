@@ -2,10 +2,8 @@ DIRECT,surge:https://raw.githubusercontent.com/hardy-one/profile/master/ruleset/
 Manual,surge:https://raw.githubusercontent.com/hardy-one/profile/master/ruleset/ProxyList.list
 
 Telegram,surge:https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Extra/Telegram/Telegram.list
-Telegram,surge:https://raw.githubusercontent.com/hardy-one/profile/master/ruleset/process_name/TelegramProc.list
 
 Google,surge:https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/StreamingMedia/Video/YouTube.list
-Google,surge:https://raw.githubusercontent.com/hardy-one/profile/master/ruleset/process_name/GoogleProc
 Google,surge:https://raw.githubusercontent.com/hardy-one/profile/master/ruleset/Google.list
 
 Netflix,surge:https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/StreamingMedia/Video/Netflix.list
