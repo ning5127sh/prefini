@@ -28,7 +28,7 @@ dns:
   - 114.114.114.114
   - 119.29.29.29
   fallback:
-#   - 223.6.6.6
+  # - 223.6.6.6
   - https://dns.rubyfish.cn/dns-query
   - https://1.1.1.1/dns-query
   fallback-filter:
@@ -37,8 +37,9 @@ dns:
       - 0.0.0.0/8
       - 127.0.0.0/8
   nameserver-policy:
-  #   'www.baidu.com': '114.114.114.114'
-  #   '+.internal.crop.com': '10.0.0.1'
+    # '+.ujn.edu.cn': '202.194.68.10'
+    # 'www.baidu.com': '114.114.114.114'
+    # '+.internal.crop.com': '10.0.0.1'
 clash-for-android:
   append-system-dns: false
   ui-subtitle-pattern: ^(\\U|\\u.{8})+?\s.*?\s|^.*?\s
