@@ -17,7 +17,7 @@ DOMAIN,www.msftconnecttest.com
 DOMAIN,snapdrop.net
 
 # >> ACM
-DOMAIN,dl.acm.org
+DOMAIN-SUFFIX,acm.org
 
 # >> Alibaba
 DOMAIN,log.mmstat.com
