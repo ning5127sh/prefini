@@ -23,6 +23,7 @@ dns:
   enhanced-mode: redir-host
   use-hosts: true
   nameserver:
+  - https://dns.rubyfish.cn/dns-query
   - 223.6.6.6
   fallback:
   - https://dns.rubyfish.cn/dns-query
