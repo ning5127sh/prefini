@@ -24,11 +24,7 @@ dns:
   use-hosts: true
   nameserver:
   - 223.6.6.6
-  - dns.rubyfish.cn
-  - 114.114.114.114
-  - 119.29.29.29
   fallback:
-  # - 223.6.6.6
   - https://dns.rubyfish.cn/dns-query
   - https://1.1.1.1/dns-query
   fallback-filter:
