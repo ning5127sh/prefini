@@ -16,7 +16,7 @@ custom:
   - {rule: "FINAL", group: "Manual"}
   
   clash_rule_base: https://raw.githubusercontent.com/hardy-one/profile/master/base/clash.yaml
-#   surge_rule_base: https://raw.githubusercontent.com/hardy-one/profile/master/base/surge.conf
+  surge_rule_base: https://raw.githubusercontent.com/hardy-one/profile/master/base/surge.conf
 
   rename_node:
   # - {match: "(.*)( -.*)( ->.*)", replace: "$1$3"}
