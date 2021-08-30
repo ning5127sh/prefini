@@ -1,15 +1,15 @@
-DIRECT,surge:https://raw.githubusercontent.com/hardy-one/profile/master/ruleset/Pass.list
-Manual,surge:https://raw.githubusercontent.com/hardy-one/profile/master/ruleset/ProxyList.list
+DIRECT,surge:http://raw.githubusercontent.com/hardy-one/profile/master/ruleset/Pass.list
+Manual,surge:http://raw.githubusercontent.com/hardy-one/profile/master/ruleset/ProxyList.list
 
-Telegram,surge:https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Extra/Telegram/Telegram.list
+Telegram,surge:http://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Extra/Telegram/Telegram.list
 
-Google,surge:https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/StreamingMedia/Video/YouTube.list
-Google,surge:https://raw.githubusercontent.com/hardy-one/profile/master/ruleset/Google.list
+Google,surge:http://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/StreamingMedia/Video/YouTube.list
+Google,surge:http://raw.githubusercontent.com/hardy-one/profile/master/ruleset/Google.list
 
-Netflix,surge:https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/StreamingMedia/Video/Netflix.list
-Netflix,surge:https://raw.githubusercontent.com/hardy-one/profile/master/ruleset/Fast.list
+Netflix,surge:http://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/StreamingMedia/Video/Netflix.list
+Netflix,surge:http://raw.githubusercontent.com/hardy-one/profile/master/ruleset/Fast.list
 
-GlobalMedia,surge:https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/StreamingMedia/Streaming.list
-ChinaMedia,surge:https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/StreamingMedia/StreamingSE.list
+GlobalMedia,surge:http://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/StreamingMedia/Streaming.list
+ChinaMedia,surge:http://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/StreamingMedia/StreamingSE.list
 
-DIRECT,clash-ipcidr:https://raw.fastgit.org/DivineEngine/Profiles/master/Clash/RuleSet/Extra/ChinaIP.yaml
+DIRECT,clash-ipcidr:http://raw.fastgit.org/DivineEngine/Profiles/master/Clash/RuleSet/Extra/ChinaIP.yaml
