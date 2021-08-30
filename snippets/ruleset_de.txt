@@ -1,20 +1,20 @@
-DIRECT,surge:http://raw.githubusercontent.com/hardy-one/profile/master/ruleset/Pass.list
-Google,surge:http://raw.githubusercontent.com/hardy-one/profile/master/ruleset/process_name/ProxyProc.list
-Manual,surge:http://raw.githubusercontent.com/hardy-one/profile/master/ruleset/ProxyList.list
+DIRECT,surge:https://raw.fastgit.org/hardy-one/profile/master/ruleset/Pass.list
+Google,surge:https://raw.fastgit.org/hardy-one/profile/master/ruleset/process_name/ProxyProc.list
+Manual,surge:https://raw.fastgit.org/hardy-one/profile/master/ruleset/ProxyList.list
 
-Telegram,surge:http://raw.githubusercontent.com/hardy-one/profile/master/ruleset/process_name/TelegramProc.list
-Telegram,clash-classic:http://raw.githubusercontent.com/DivineEngine/Profiles/master/Clash/RuleSet/Extra/Telegram/Telegram.yaml
+Telegram,surge:https://raw.fastgit.org/hardy-one/profile/master/ruleset/process_name/TelegramProc.list
+Telegram,clash-classic:https://raw.fastgit.org/DivineEngine/Profiles/master/Clash/RuleSet/Extra/Telegram/Telegram.yaml
 
-Google,clash-classic:http://raw.githubusercontent.com/DivineEngine/Profiles/master/Clash/RuleSet/StreamingMedia/Video/YouTube.yaml
-Google,clash-classic:http://raw.githubusercontent.com/DivineEngine/Profiles/master/Clash/RuleSet/StreamingMedia/Music/YouTubeMusic.yaml
-Google,surge:http://raw.githubusercontent.com/hardy-one/profile/master/ruleset/process_name/GoogleProc.list
-Google,surge:http://raw.githubusercontent.com/hardy-one/profile/master/ruleset/Google.list
+Google,clash-classic:https://raw.fastgit.org/DivineEngine/Profiles/master/Clash/RuleSet/StreamingMedia/Video/YouTube.yaml
+Google,clash-classic:https://raw.fastgit.org/DivineEngine/Profiles/master/Clash/RuleSet/StreamingMedia/Music/YouTubeMusic.yaml
+Google,surge:https://raw.fastgit.org/hardy-one/profile/master/ruleset/process_name/GoogleProc.list
+Google,surge:https://raw.fastgit.org/hardy-one/profile/master/ruleset/Google.list
 
-Netflix,clash-classic:http://raw.githubusercontent.com/DivineEngine/Profiles/master/Clash/RuleSet/StreamingMedia/Video/Netflix.yaml
-Netflix,surge:http://raw.githubusercontent.com/hardy-one/profile/master/ruleset/Fast.list
+Netflix,clash-classic:https://raw.fastgit.org/DivineEngine/Profiles/master/Clash/RuleSet/StreamingMedia/Video/Netflix.yaml
+Netflix,surge:https://raw.fastgit.org/hardy-one/profile/master/ruleset/Fast.list
 
-GlobalMedia,clash-classic:http://raw.githubusercontent.com/DivineEngine/Profiles/master/Clash/RuleSet/StreamingMedia/Streaming.yaml
-ChinaMedia,clash-classic:http://raw.githubusercontent.com/DivineEngine/Profiles/master/Clash/RuleSet/StreamingMedia/StreamingSE.yaml
-ChinaMedia,surge:http://raw.githubusercontent.com/hardy-one/profile/master/ruleset/process_name/BiliBili.list
+GlobalMedia,clash-classic:https://raw.fastgit.org/DivineEngine/Profiles/master/Clash/RuleSet/StreamingMedia/Streaming.yaml
+ChinaMedia,clash-classic:https://raw.fastgit.org/DivineEngine/Profiles/master/Clash/RuleSet/StreamingMedia/StreamingSE.yaml
+ChinaMedia,surge:https://raw.fastgit.org/hardy-one/profile/master/ruleset/process_name/BiliBili.list
 
-DIRECT,clash-ipcidr:http://raw.fastgit.org/DivineEngine/Profiles/master/Clash/RuleSet/Extra/ChinaIP.yaml
+DIRECT,clash-ipcidr:https://raw.fastgit.org/DivineEngine/Profiles/master/Clash/RuleSet/Extra/ChinaIP.yaml
