@@ -26,8 +26,9 @@ dns:
   - https://dns.rubyfish.cn/dns-query
   - 223.6.6.6
   fallback:
-  - https://dns.rubyfish.cn/dns-query
-  - https://1.1.1.1/dns-query
+  - https://a.passcloud.xyz/dns-query
+#   - https://dns.rubyfish.cn/dns-query
+#   - https://1.1.1.1/dns-query
   fallback-filter:
     geoip: false
     ipcidr:
