@@ -23,12 +23,13 @@ dns:
   enhanced-mode: redir-host
   use-hosts: true
   nameserver:
-  - https://dns.rubyfish.cn/dns-query
+#   - https://dns.rubyfish.cn/dns-query
+  - 119.29.29.29
   - 223.6.6.6
-  - https://a.passcloud.xyz/dns-query
+#   - https://a.passcloud.xyz/dns-query
   fallback:
   - https://a.passcloud.xyz/dns-query
-  - https://i.passcloud.xyz/dns-query
+#   - https://i.passcloud.xyz/dns-query
 #   - https://dns.rubyfish.cn/dns-query
 #   - https://1.1.1.1/dns-query
   fallback-filter:
