@@ -23,9 +23,10 @@ dns:
   enhanced-mode: redir-host
   use-hosts: true
   nameserver:
+  - dhcp://en0 # dns from dhcp
 #   - https://dns.rubyfish.cn/dns-query
-  - 119.29.29.29
-  - 223.6.6.6
+#   - 119.29.29.29
+#   - 223.6.6.6
 #   - https://a.passcloud.xyz/dns-query
   fallback:
   - https://a.passcloud.xyz/dns-query
