@@ -29,6 +29,7 @@ dns:
 #   - https://a.passcloud.xyz/dns-query
   fallback:
   - https://a.passcloud.xyz/dns-query
+  - tls://x.passcloud.xyz
 #   - https://i.passcloud.xyz/dns-query
 #   - https://dns.rubyfish.cn/dns-query
 #   - https://1.1.1.1/dns-query
