@@ -26,13 +26,13 @@ dns:
   - dhcp://en0 # dns from dhcp
 #   - https://dns.rubyfish.cn/dns-query
 #   - 119.29.29.29
-#   - 223.6.6.6
+  - 223.6.6.6
 #   - https://a.passcloud.xyz/dns-query
   fallback:
-  - https://a.passcloud.xyz/dns-query
+#   - https://a.passcloud.xyz/dns-query
   - tls://x.passcloud.xyz
 #   - https://i.passcloud.xyz/dns-query
-#   - https://dns.rubyfish.cn/dns-query
+  - https://dns.rubyfish.cn/dns-query
 #   - https://1.1.1.1/dns-query
   fallback-filter:
     geoip: false
