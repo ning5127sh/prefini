@@ -24,6 +24,7 @@ dns:
   use-hosts: true
   nameserver:
   - dhcp://en0 # dns from dhcp
+  - dhcp://WLAN
 #   - https://dns.rubyfish.cn/dns-query
 #   - 119.29.29.29
   - 223.6.6.6
