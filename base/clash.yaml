@@ -41,9 +41,9 @@ dns:
       - 0.0.0.0/8
       - 127.0.0.0/8
   nameserver-policy:
-    '+.ujn.edu.cn': '202.194.68.10'
-    'www.baidu.com': '114.114.114.114'
-    # '+.internal.crop.com': '10.0.0.1'
+#     '+.ujn.edu.cn': '202.194.68.10'
+#     'www.baidu.com': '114.114.114.114'
+#     '+.internal.crop.com': '10.0.0.1'
 clash-for-android:
   append-system-dns: false
   ui-subtitle-pattern: ^(\\U|\\u.{8})+?\s.*?\s|^.*?\s
