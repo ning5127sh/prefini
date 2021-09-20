@@ -64,8 +64,8 @@ replace = "04"
 match = '(.*)( -.*)'
 replace = "$1"
 
-[[rename_node]]
-import = "snippets/rename_node.toml"
+# [[rename_node]]
+# import = "snippets/rename_node.toml"
 
 # [[template_args]]
 # key = "clash.dns.port"
