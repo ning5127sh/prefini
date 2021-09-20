@@ -1,0 +1,59 @@
+[[custom_groups]]
+name = "Manual"
+type = "select"
+rule = ["[]HK", "[]JP", "[]SG", "[]US", "[]TW", "[]OT", "[]DIRECT"]
+
+[[custom_groups]]
+name = "Telegram"
+type = "select"
+rule = ["[]Manual", "[]HK", "[]JP", "[]SG", "[]US", "[]TW", "[]OT", "[]DIRECT"]
+
+[[custom_groups]]
+name = "Google"
+type = "select"
+rule = ["[]Manual", "[]HK", "[]JP", "[]SG", "[]US", "[]TW", "[]OT", "[]DIRECT"]
+
+[[custom_groups]]
+name = "Netflix"
+type = "select"
+rule = ["[]Manual", "[]HK", "[]JP", "[]SG", "[]US", "[]TW", "[]OT", "[]DIRECT"]
+
+[[custom_groups]]
+name = "CMedia"
+type = "select"
+rule = ["[]DIRECT", "[]Manual", "[]HK", "[]JP", "[]SG", "[]US", "[]TW", "[]OT"]
+
+[[custom_groups]]
+name = "GMedia"
+type = "select"
+rule = ["[]Manual", "[]HK", "[]JP", "[]SG", "[]US", "[]TW", "[]OT", "[]DIRECT"]
+
+[[custom_groups]]
+name = "HK"
+type = "select"
+rule = ["香港"]
+
+[[custom_groups]]
+name = "JP"
+type = "select"
+rule = ["日本"]
+
+[[custom_groups]]
+name = "SG"
+type = "select"
+rule = ["新加坡"]
+
+[[custom_groups]]
+name = "US"
+type = "select"
+rule = ["美国"]
+
+[[custom_groups]]
+name = "TW"
+type = "select"
+rule = ["台湾"]
+
+[[custom_groups]]
+name = "OT"
+type = "select"
+rule = ["^(?!.*(香港|台湾|新加坡|日本|美国)).*$"]

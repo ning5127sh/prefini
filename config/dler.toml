@@ -1,0 +1,71 @@
+version = 1
+[custom]
+enable_rule_generator = true
+overwrite_original_rules = true
+
+# Options for custom base configuration file
+clash_rule_base = "https://raw.githubusercontent.com/hardy-one/profile/master/base/clash.yaml"
+surge_rule_base = "https://raw.githubusercontent.com/hardy-one/profile/master/base/surge.conf"
+#surfboard_rule_base = "base/surfboard.conf"
+#mellow_rule_base = "base/mellow.conf"
+#quan_rule_base = "base/quan.conf"
+#quanx_rule_base = "base/quanx.conf"
+
+# Options for adding emojis
+add_emoji = false
+remove_old_emoji = true
+
+# Options for filtering nodes
+#include_remarks = []
+#exclude_remarks = []
+
+[[custom_groups]]
+import = "https://raw.githubusercontent.com/hardy-one/prefini/master/snippets/dler_groups.toml"
+
+[[rulesets]]
+{% if default(request.ruleset, "") == "1" %}
+import = "https://raw.githubusercontent.com/hardy-one/profile/master/snippets/ruleset_de_2.toml"
+{% else if default(request.ruleset, "") == "test" %}
+import = "https://raw.githubusercontent.com/hardy-one/profile/master/snippets/ruleset_test.txt"
+{% else %}
+import = "https://raw.githubusercontent.com/hardy-one/profile/master/snippets/ruleset_de.toml"
+{% endif %}
+
+[[node_pref.rename_node]]
+match = '\[(.*)\]'
+replace = "$1"
+
+[[node_pref.rename_node]]
+match = '\+$'
+replace = "♯ 01"
+
+[[node_pref.rename_node]]
+match = '\+ (\d*)$'
+replace = "♯ $1"
+
+[[node_pref.rename_node]]
+match = 'East'
+replace = "01"
+
+[[node_pref.rename_node]]
+match = 'South'
+replace = "02"
+
+[[node_pref.rename_node]]
+match = 'North'
+replace = "03"
+
+[[node_pref.rename_node]]
+match = 'West'
+replace = "04"
+
+[[node_pref.rename_node]]
+match = '(.*)( -.*)'
+replace = "$1"
+
+[[node_pref.rename_node]]
+import = "snippets/rename_node.toml"
+
+# [[template_args]]
+# key = "clash.dns.port"
+# value = 5353

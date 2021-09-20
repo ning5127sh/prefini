@@ -1,0 +1,54 @@
+[[rulesets]]
+group = "DIRECT"
+ruleset = "http://raw.githubusercontent.com/hardy-one/profile/master/ruleset/Pass.list"
+type = "surge-ruleset"
+
+[[rulesets]]
+group = "Manual"
+ruleset = "http://raw.githubusercontent.com/hardy-one/profile/master/ruleset/ProxyList.list"
+type = "surge-ruleset"
+
+[[rulesets]]
+group = "Telegram"
+ruleset = "http://raw.githubusercontent.com/DivineEngine/Profiles/master/Clash/RuleSet/Extra/Telegram/Telegram.yaml"
+type = "clash-classic"
+
+[[rulesets]]
+group = "Google"
+ruleset = "http://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/StreamingMedia/Video/YouTube.list"
+type = "surge-ruleset"
+[[rulesets]]
+group = "Google"
+ruleset = "http://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/StreamingMedia/Music/YouTubeMusic.list"
+type = "surge-ruleset"
+[[rulesets]]
+group = "Google"
+ruleset = "http://raw.githubusercontent.com/hardy-one/profile/master/ruleset/Google.list"
+type = "surge-ruleset"
+
+[[rulesets]]
+group = "Netflix"
+ruleset = "http://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/StreamingMedia/Video/Netflix.list"
+type = "surge-ruleset"
+[[rulesets]]
+group = "Netflix"
+ruleset = "http://raw.githubusercontent.com/hardy-one/profile/master/ruleset/Fast.list"
+type = "surge-ruleset"
+
+[[rulesets]]
+group = "GMedia"
+ruleset = "http://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/StreamingMedia/Streaming.list"
+type = "surge-ruleset"
+[[rulesets]]
+group = "CMedia"
+ruleset = "http://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/StreamingMedia/StreamingSE.list"
+type = "surge-ruleset"
+[[rulesets]]
+group = "CMedia"
+ruleset = "http://raw.githubusercontent.com/hardy-one/profile/master/ruleset/process_name/BiliBili.list"
+type = "surge-ruleset"
+
+[[rulesets]]
+group = "DIRECT"
+ruleset = "http://raw.githubusercontent.com/DivineEngine/Profiles/master/Clash/RuleSet/Extra/ChinaIP.yaml"
+type = "clash-ipcidr"
