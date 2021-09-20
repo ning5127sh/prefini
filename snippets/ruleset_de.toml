@@ -1,68 +1,68 @@
 [[rulesets]]
 group = "DIRECT"
-ruleset = "http://raw.githubusercontent.com/hardy-one/profile/master/ruleset/Pass.list"
+ruleset = "http://raw.fastgit.org/hardy-one/profile/master/ruleset/Pass.list"
 type = "surge-ruleset"
 
 [[rulesets]]
 group = "Manual"
-ruleset = "http://raw.githubusercontent.com/hardy-one/profile/master/ruleset/process_name/ProxyProc.list"
+ruleset = "http://raw.fastgit.org/hardy-one/profile/master/ruleset/process_name/ProxyProc.list"
 type = "surge-ruleset"
 [[rulesets]]
 group = "Manual"
-ruleset = "http://raw.githubusercontent.com/hardy-one/profile/master/ruleset/ProxyList.list"
+ruleset = "http://raw.fastgit.org/hardy-one/profile/master/ruleset/ProxyList.list"
 type = "surge-ruleset"
 
 [[rulesets]]
 group = "Telegram"
-ruleset = "http://raw.githubusercontent.com/hardy-one/profile/master/ruleset/process_name/TelegramProc.list"
+ruleset = "http://raw.fastgit.org/hardy-one/profile/master/ruleset/process_name/TelegramProc.list"
 type = "surge-ruleset"
 [[rulesets]]
 group = "Telegram"
-ruleset = "http://raw.githubusercontent.com/DivineEngine/Profiles/master/Clash/RuleSet/Extra/Telegram/Telegram.yaml"
+ruleset = "http://raw.fastgit.org/DivineEngine/Profiles/master/Clash/RuleSet/Extra/Telegram/Telegram.yaml"
 type = "clash-classic"
 
 [[rulesets]]
 group = "Google"
-ruleset = "http://raw.githubusercontent.com/DivineEngine/Profiles/master/Clash/RuleSet/StreamingMedia/Video/YouTube.yaml"
+ruleset = "http://raw.fastgit.org/DivineEngine/Profiles/master/Clash/RuleSet/StreamingMedia/Video/YouTube.yaml"
 type = "clash-classic"
 [[rulesets]]
 group = "Google"
-ruleset = "http://raw.githubusercontent.com/DivineEngine/Profiles/master/Clash/RuleSet/StreamingMedia/Music/YouTubeMusic.yaml"
+ruleset = "http://raw.fastgit.org/DivineEngine/Profiles/master/Clash/RuleSet/StreamingMedia/Music/YouTubeMusic.yaml"
 type = "clash-classic"
 [[rulesets]]
 group = "Google"
-ruleset = "http://raw.githubusercontent.com/hardy-one/profile/master/ruleset/process_name/GoogleProc.list"
+ruleset = "http://raw.fastgit.org/hardy-one/profile/master/ruleset/process_name/GoogleProc.list"
 type = "surge-ruleset"
 [[rulesets]]
 group = "Google"
-ruleset = "http://raw.githubusercontent.com/hardy-one/profile/master/ruleset/Google.list"
+ruleset = "http://raw.fastgit.org/hardy-one/profile/master/ruleset/Google.list"
 type = "surge-ruleset"
 
 [[rulesets]]
 group = "Netflix"
-ruleset = "http://raw.githubusercontent.com/DivineEngine/Profiles/master/Clash/RuleSet/StreamingMedia/Video/Netflix.yaml"
+ruleset = "http://raw.fastgit.org/DivineEngine/Profiles/master/Clash/RuleSet/StreamingMedia/Video/Netflix.yaml"
 type = "clash-classic"
 [[rulesets]]
 group = "Netflix"
-ruleset = "http://raw.githubusercontent.com/hardy-one/profile/master/ruleset/Fast.list"
+ruleset = "http://raw.fastgit.org/hardy-one/profile/master/ruleset/Fast.list"
 type = "surge-ruleset"
 
 [[rulesets]]
 group = "GMedia"
-ruleset = "http://raw.githubusercontent.com/DivineEngine/Profiles/master/Clash/RuleSet/StreamingMedia/Streaming.yaml"
+ruleset = "http://raw.fastgit.org/DivineEngine/Profiles/master/Clash/RuleSet/StreamingMedia/Streaming.yaml"
 type = "clash-classic"
 [[rulesets]]
 group = "CMedia"
-ruleset = "http://raw.githubusercontent.com/DivineEngine/Profiles/master/Clash/RuleSet/StreamingMedia/StreamingSE.yaml"
+ruleset = "http://raw.fastgit.org/DivineEngine/Profiles/master/Clash/RuleSet/StreamingMedia/StreamingSE.yaml"
 type = "clash-classic"
 [[rulesets]]
 group = "CMedia"
-ruleset = "http://raw.githubusercontent.com/hardy-one/profile/master/ruleset/process_name/BiliBili.list"
+ruleset = "http://raw.fastgit.org/hardy-one/profile/master/ruleset/process_name/BiliBili.list"
 type = "surge-ruleset"
 
 [[rulesets]]
 group = "DIRECT"
-ruleset = "http://raw.githubusercontent.com/DivineEngine/Profiles/master/Clash/RuleSet/Extra/ChinaIP.yaml"
+ruleset = "http://raw.fastgit.org/DivineEngine/Profiles/master/Clash/RuleSet/Extra/ChinaIP.yaml"
 type = "clash-ipcidr"
 
 [[rulesets]]
