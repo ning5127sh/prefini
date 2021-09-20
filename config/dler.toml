@@ -32,45 +32,40 @@ import = "https://raw.githubusercontent.com/hardy-one/profile/master/snippets/ru
 import = "https://raw.githubusercontent.com/hardy-one/profile/master/snippets/ruleset_de.toml"
 {% endif %}
 
+[[node_pref.rename_node]]
+match = '\[(.*)\]'
+replace = "$1"
 
+[[node_pref.rename_node]]
+match = '\+$'
+replace = "♯ 01"
 
+[[node_pref.rename_node]]
+match = '\+ (\d*)$'
+replace = "♯ $1"
 
+[[node_pref.rename_node]]
+match = 'East'
+replace = "01"
 
+[[node_pref.rename_node]]
+match = 'South'
+replace = "02"
 
-# [[node_pref.rename_node]]
-# match = '\[(.*)\]'
-# replace = "$1"
+[[node_pref.rename_node]]
+match = 'North'
+replace = "03"
 
-# [[node_pref.rename_node]]
-# match = '\+$'
-# replace = "♯ 01"
+[[node_pref.rename_node]]
+match = 'West'
+replace = "04"
 
-# [[node_pref.rename_node]]
-# match = '\+ (\d*)$'
-# replace = "♯ $1"
+[[node_pref.rename_node]]
+match = '(.*)( -.*)'
+replace = "$1"
 
-# [[node_pref.rename_node]]
-# match = 'East'
-# replace = "01"
-
-# [[node_pref.rename_node]]
-# match = 'South'
-# replace = "02"
-
-# [[node_pref.rename_node]]
-# match = 'North'
-# replace = "03"
-
-# [[node_pref.rename_node]]
-# match = 'West'
-# replace = "04"
-
-# [[node_pref.rename_node]]
-# match = '(.*)( -.*)'
-# replace = "$1"
-
-# [[node_pref.rename_node]]
-# import = "snippets/rename_node.toml"
+[[node_pref.rename_node]]
+import = "snippets/rename_node.toml"
 
 # [[template_args]]
 # key = "clash.dns.port"
