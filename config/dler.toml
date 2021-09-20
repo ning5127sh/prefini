@@ -64,8 +64,8 @@ import = "https://raw.githubusercontent.com/hardy-one/profile/master/snippets/ru
 # match = '(.*)( -.*)'
 # replace = "$1"
 
-[[node_pref.rename_node]]
-import = "snippets/rename_node.toml"
+# [[node_pref.rename_node]]
+# import = "snippets/rename_node.toml"
 
 # [[template_args]]
 # key = "clash.dns.port"
