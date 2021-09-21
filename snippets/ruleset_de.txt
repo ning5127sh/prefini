@@ -18,3 +18,5 @@ ChinaMedia,clash-classic:https://raw.githubusercontent.com/DivineEngine/Profiles
 ChinaMedia,surge:https://raw.githubusercontent.com/hardy-one/profile/master/ruleset/process_name/BiliBili.list
 
 DIRECT,clash-ipcidr:https://raw.githubusercontent.com/DivineEngine/Profiles/master/Clash/RuleSet/Extra/ChinaIP.yaml
+
+Manual,[]FINAL
