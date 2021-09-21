@@ -35,23 +35,26 @@ group = "Netflix"
 ruleset = "https://raw.githubusercontent.com/hardy-one/profile/master/ruleset/Fast.list"
 type = "surge-ruleset"
 
+# [[rulesets]]
+# group = "GMedia"
+# ruleset = "https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/StreamingMedia/Streaming.list"
+# type = "surge-ruleset"
 [[rulesets]]
 group = "GMedia"
-ruleset = "https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/StreamingMedia/Streaming.list"
+ruleset = "https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/StreamingMedia/Video/DisneyPlus.list"
 type = "surge-ruleset"
+# [[rulesets]]
+# group = "CMedia"
+# ruleset = "https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/StreamingMedia/StreamingSE.list"
+# type = "surge-ruleset"
 [[rulesets]]
 group = "CMedia"
-ruleset = "https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/StreamingMedia/StreamingSE.list"
-type = "surge-ruleset"
-[[rulesets]]
-group = "CMedia"
-ruleset = "https://raw.githubusercontent.com/hardy-one/profile/master/ruleset/process_name/BiliBili.list"
+ruleset = "https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/StreamingMedia/Video/bilibili-Intl.list"
 type = "surge-ruleset"
 
 [[rulesets]]
 group = "DIRECT"
-ruleset = "https://raw.githubusercontent.com/DivineEngine/Profiles/master/Clash/RuleSet/Extra/ChinaIP.yaml"
-type = "clash-ipcidr"
+ruleset = "[]GEOIP,CN"
 
 [[rulesets]]
 group = "Manual"
