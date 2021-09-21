@@ -47,18 +47,26 @@ group = "Netflix"
 ruleset = "https://raw.githubusercontent.com/hardy-one/profile/master/ruleset/Fast.list"
 type = "surge-ruleset"
 
+# [[rulesets]]
+# group = "GMedia"
+# ruleset = "https://raw.githubusercontent.com/DivineEngine/Profiles/master/Clash/RuleSet/StreamingMedia/Streaming.yaml"
+# type = "clash-classic"
 [[rulesets]]
 group = "GMedia"
-ruleset = "https://raw.githubusercontent.com/DivineEngine/Profiles/master/Clash/RuleSet/StreamingMedia/Streaming.yaml"
+ruleset = "https://raw.githubusercontent.com/DivineEngine/Profiles/master/Clash/RuleSet/StreamingMedia/Video/DisneyPlus.yaml"
 type = "clash-classic"
+# [[rulesets]]
+# group = "CMedia"
+# ruleset = "https://raw.githubusercontent.com/DivineEngine/Profiles/master/Clash/RuleSet/StreamingMedia/StreamingSE.yaml"
+# type = "clash-classic"
+# [[rulesets]]
+# group = "CMedia"
+# ruleset = "https://raw.githubusercontent.com/hardy-one/profile/master/ruleset/process_name/BiliBili.list"
+# type = "surge-ruleset"
 [[rulesets]]
 group = "CMedia"
-ruleset = "https://raw.githubusercontent.com/DivineEngine/Profiles/master/Clash/RuleSet/StreamingMedia/StreamingSE.yaml"
+ruleset = "https://raw.githubusercontent.com/DivineEngine/Profiles/master/Clash/RuleSet/StreamingMedia/Video/bilibili-Intl.yaml"
 type = "clash-classic"
-[[rulesets]]
-group = "CMedia"
-ruleset = "https://raw.githubusercontent.com/hardy-one/profile/master/ruleset/process_name/BiliBili.list"
-type = "surge-ruleset"
 
 [[rulesets]]
 group = "DIRECT"
